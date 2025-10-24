@@ -1,0 +1,29 @@
+# 🚫 Block Google Play & Microsoft Updates
+# ======== GOOGLE ========
+||play.googleapis.com^
+||play-lh.googleusercontent.com^
+||play-fe.googleapis.com^
+||android.googleapis.com^
+||update.googleapis.com^
+||ota.googlezip.net^
+||dl.google.com^
+||mtalk.google.com^
+||gvt1.com^
+||gvt2.com^
+||gvt3.com^
+
+# ======== MICROSOFT WINDOWS UPDATE ========
+||update.microsoft.com^
+||windowsupdate.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+||emdl.ws.microsoft.com^
+||download.windowsupdate.com^
+||tlu.dl.delivery.mp.microsoft.com^
+||windowsupdate.com^
+||wustat.windows.com^
+||statsfe2.update.microsoft.com^
+
+# ======== MICROSOFT ANDROID APPS ========
+||officecdn.microsoft.com^
+||msedge.api.cdp.microsoft.com^
+||officeapps.live.com^
