@@ -1,8 +1,7 @@
-# 🚫 Block Google Play & Microsoft Updates
-# ======== GOOGLE ========
+======== GOOGLE UPDATE BLOCK ========
+
+||android.clients.google.com^
 ||play.googleapis.com^
-||play-lh.googleusercontent.com^
-||play-fe.googleapis.com^
 ||android.googleapis.com^
 ||update.googleapis.com^
 ||ota.googlezip.net^
@@ -12,18 +11,22 @@
 ||gvt2.com^
 ||gvt3.com^
 
-# ======== MICROSOFT WINDOWS UPDATE ========
-||update.microsoft.com^
-||windowsupdate.microsoft.com^
-||dl.delivery.mp.microsoft.com^
-||emdl.ws.microsoft.com^
-||download.windowsupdate.com^
-||tlu.dl.delivery.mp.microsoft.com^
-||windowsupdate.com^
-||wustat.windows.com^
-||statsfe2.update.microsoft.com^
+======== MICROSOFT WINDOWS UPDATE ========
 
-# ======== MICROSOFT ANDROID APPS ========
+||*.update.microsoft.com^
+||*.windowsupdate.microsoft.com^
+||*.dl.delivery.mp.microsoft.com^
+||*.emdl.ws.microsoft.com^
+||*.download.windowsupdate.com^
+||*.windowsupdate.com^
+||*.wustat.windows.com^
+||*.statsfe2.update.microsoft.com^
+||*.fe2.update.microsoft.com^
+
+======== MICROSOFT STORE & APPS ========
+
 ||officecdn.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
 ||officeapps.live.com^
+||store-images.microsoft.com^
+||store-images.s-microsoft.com^
