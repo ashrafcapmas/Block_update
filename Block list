@@ -1,4 +1,4 @@
-🚫 Block Google Play & Microsoft Updates + YouTube Ads Block
+🚫 Block Google Play & Microsoft Updates + Ads Blocking
 
 ======== GOOGLE UPDATE BLOCK ========
 
@@ -33,19 +33,20 @@
 ||store-images.microsoft.com^
 ||store-images.s-microsoft.com^
 
-======== YOUTUBE ADS BLOCK ONLY ========
+======== YOUTUBE ADS BLOCK ========
 
+||youtube.com/get_midroll_
+||youtube.com/api/stats/ads
+||youtube.com/ptracking
+||youtube.com/pagead/
 ||googlesyndication.com^
 ||doubleclick.net^
 ||googleadservices.com^
-||youtube.com/pagead/
-||youtube.com/api/stats/ads
-||youtube.com/ptracking
-||youtube.com/get_midroll_
 ||an.yandex.ru^
 ||adsystem.com^$domain=youtube.com
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 
-======== LIGHTWEIGHT ADS BLOCKING ========
+======== ADVANCED ADS BLOCKING ========
 
 ||adservice.google.com^
 ||adservice.google.*^
@@ -58,3 +59,29 @@
 ||popup.com^
 ||taboola.com^
 ||outbrain.com^
+||telemetry.*.com^
+||analytics.*.com^
+||tracking.*.com^
+||metrics.*.com^
+
+======== LIGHTWEIGHT POPUP BLOCK ========
+
+||clickbank.net^
+||zemanta.com^
+||revjet.com^
+||adsco.re^
+||trafficjunky.net^
+||exponential.com^
+||quantserve.com^
+||scorecardresearch.com^
+||googletagmanager.com^
+||googletagservices.com^
+||google-analytics.com^
+
+======== ESSENTIAL SERVICES (WHITELIST) ========
+
+@@||youtube.com^$important
+@@||youtubei.googleapis.com^$important
+@@||ggpht.com^$important
+@@||ytimg.com^$important
+@@||googlevideo.com^$important
