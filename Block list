@@ -1,3 +1,5 @@
+🚫 Block Google Play & Microsoft Updates + Ads Blocking
+
 ======== GOOGLE UPDATE BLOCK ========
 
 ||android.clients.google.com^
@@ -30,3 +32,66 @@
 ||officeapps.live.com^
 ||store-images.microsoft.com^
 ||store-images.s-microsoft.com^
+
+======== YOUTUBE ADS BLOCK ========
+
+||youtube.com##.ytd-promoted-sparkles-web-renderer
+||youtube.com##.ytp-ad-progress-list
+||youtube.com##.ad-container
+||youtube.com##.video-ads
+||youtube.com##.ytd-action-companion-ad-renderer
+||googlesyndication.com^
+||doubleclick.net^
+||googleadservices.com^
+||youtube.com/pagead/
+||youtube.com/api/stats/ads
+||youtube.com/ptracking
+||youtube.com/get_midroll_
+
+======== GENERAL ADS BLOCKING ========
+
+||adsystem.com^
+||adservice.google.com^
+||adservice.google.*^
+||adnxs.com^
+||amazon-adsystem.com^
+||facebook.com/ads/
+||fbcdn.net/ads/
+||ads.facebook.com^
+||ads.*.com^
+||ad.*.com^
+||*.ads.*.com^
+||telemetry.*.com^
+||analytics.*.com^
+||tracking.*.com^
+||metrics.*.com^
+||adserver.*.com^
+||banner.*.com^
+||promo.*.com^
+||offer.*.com^
+||popup.*.com^
+||ads.*^
+||ad.*^
+||analytics.*^
+||tracking.*^
+
+======== POPUP & TRACKING BLOCK ========
+
+||popup.com^
+||popads.net^
+||popunder.com^
+||clickbank.net^
+||taboola.com^
+||outbrain.com^
+||zemanta.com^
+||revjet.com^
+||adsco.re^
+||trafficjunky.net^
+||exponential.com^
+||quantserve.com^
+||scorecardresearch.com^
+||googletagmanager.com^
+||googletagservices.com^
+||google-analytics.com^
+||amazonaws.com/ads/
+||cloudfront.net/ads/
