@@ -33,19 +33,6 @@
 ||store-images.microsoft.com^
 ||store-images.s-microsoft.com^
 
-======== YOUTUBE ADS BLOCK ========
-
-||youtube.com/get_midroll_
-||youtube.com/api/stats/ads
-||youtube.com/ptracking
-||youtube.com/pagead/
-||googlesyndication.com^
-||doubleclick.net^
-||googleadservices.com^
-||an.yandex.ru^
-||adsystem.com^$domain=youtube.com
-youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-
 ======== ADVANCED ADS BLOCKING ========
 
 ||adservice.google.com^
@@ -77,11 +64,3 @@ youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAd
 ||googletagmanager.com^
 ||googletagservices.com^
 ||google-analytics.com^
-
-======== ESSENTIAL SERVICES (WHITELIST) ========
-
-@@||youtube.com^$important
-@@||youtubei.googleapis.com^$important
-@@||ggpht.com^$important
-@@||ytimg.com^$important
-@@||googlevideo.com^$important
