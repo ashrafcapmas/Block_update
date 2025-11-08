@@ -1,66 +1,85 @@
-🚫 Block Google Play & Microsoft Updates + Ads Blocking
+# ============================================
+# BLOCK YOUTUBE ADS
+# ============================================
+ads.youtube.com
+www-ads.youtube.com
+ads-api.youtube.com
+ads.youtu.be
+doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+adservice.google.com
+ads.google.com
+googlesyndication.com
+fundingchoicesmessages.google.com
+youtube.com/api/stats/ads
+youtube.com/pagead/
+youtube.com/ptracking
+youtube.com/api/stats/qoe?adformat=
 
-======== GOOGLE UPDATE BLOCK ========
+# ============================================
+# BLOCK FACEBOOK ADS
+# ============================================
+an.facebook.com
+ads.facebook.com
+ads-api.facebook.com
+www.ads.facebook.com
+connect.facebook.net
+facebookads.com
+ads.ak.facebook.com
+ads.business.facebook.com
+static.ads.facebook.com
+analytics.facebook.com
+pixel.facebook.com
+trk.fbsrv.com
+fbcdn.net
+fbsbx.com
+ads.eskimi.com
 
-||android.clients.google.com^
-||play.googleapis.com^
-||android.googleapis.com^
-||update.googleapis.com^
-||ota.googlezip.net^
-||dl.google.com^
-||mtalk.google.com^
-||gvt1.com^
-||gvt2.com^
-||gvt3.com^
+# ============================================
+# BLOCK GOOGLE UPDATES
+# ============================================
+tools.google.com
+dl.google.com
+dl-ssl.google.com
+omahaproxy.appspot.com
+tools.l.google.com
+clients2.google.com
+pack.google.com
+update.google.com
+googleupdate.googleapis.com
+appspot-preview.l.google.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+mtalk.google.com
+clients4.google.com
 
-======== MICROSOFT WINDOWS UPDATE ========
+# ============================================
+# BLOCK MICROSOFT UPDATES
+# ============================================
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+delivery.mp.microsoft.com
+ctldl.windowsupdate.com
+fe3.delivery.mp.microsoft.com
+sls.update.microsoft.com
+au.download.windowsupdate.com
+stats.update.microsoft.com
+wustat.windows.com
+redir.metaservices.microsoft.com
+settings-win.data.microsoft.com
+vortex-win.data.microsoft.com
+store-images.microsoft.com
+store-images.s-microsoft.com
 
-||*.update.microsoft.com^
-||*.windowsupdate.microsoft.com^
-||*.dl.delivery.mp.microsoft.com^
-||*.emdl.ws.microsoft.com^
-||*.download.windowsupdate.com^
-||*.windowsupdate.com^
-||*.wustat.windows.com^
-||*.statsfe2.update.microsoft.com^
-||*.fe2.update.microsoft.com^
-
-======== MICROSOFT STORE & APPS ========
-
-||officecdn.microsoft.com^
-||msedge.api.cdp.microsoft.com^
-||officeapps.live.com^
-||store-images.microsoft.com^
-||store-images.s-microsoft.com^
-
-======== ADVANCED ADS BLOCKING ========
-
-||adservice.google.com^
-||adservice.google.*^
-||adsystem.com^
-||amazon-adsystem.com^
-||adnxs.com^
-||facebook.com/ads/
-||ads.facebook.com^
-||popads.net^
-||popup.com^
-||taboola.com^
-||outbrain.com^
-||telemetry.*.com^
-||analytics.*.com^
-||tracking.*.com^
-||metrics.*.com^
-
-======== LIGHTWEIGHT POPUP BLOCK ========
-
-||clickbank.net^
-||zemanta.com^
-||revjet.com^
-||adsco.re^
-||trafficjunky.net^
-||exponential.com^
-||quantserve.com^
-||scorecardresearch.com^
-||googletagmanager.com^
-||googletagservices.com^
-||google-analytics.com^
+# Microsoft Store Updates
+*.dl.delivery.mp.microsoft.com
+*.prod.do.dsp.mp.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+arc.msn.com
+settings.data.microsoft.com
