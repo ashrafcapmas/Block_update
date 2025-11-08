@@ -1,50 +1,15 @@
 # ============================================
-# BLOCK YOUTUBE ADS
+# BLOCK ALL UPDATES & APP STORES
 # ============================================
-ads.youtube.com
-www-ads.youtube.com
-ads-api.youtube.com
-ads.youtu.be
-doubleclick.net
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
-adservice.google.com
-ads.google.com
-googlesyndication.com
-fundingchoicesmessages.google.com
-youtube.com/api/stats/ads
-youtube.com/pagead/
-youtube.com/ptracking
-youtube.com/api/stats/qoe?adformat=
 
-# ============================================
-# BLOCK FACEBOOK ADS
-# ============================================
-an.facebook.com
-ads.facebook.com
-ads-api.facebook.com
-www.ads.facebook.com
-connect.facebook.net
-facebookads.com
-ads.ak.facebook.com
-ads.business.facebook.com
-static.ads.facebook.com
-analytics.facebook.com
-pixel.facebook.com
-trk.fbsrv.com
-fbcdn.net
-fbsbx.com
-ads.eskimi.com
-
-# ============================================
-# BLOCK GOOGLE UPDATES
-# ============================================
+# Google Updates
 tools.google.com
 dl.google.com
 dl-ssl.google.com
 omahaproxy.appspot.com
 tools.l.google.com
 clients2.google.com
+clients4.google.com
 pack.google.com
 update.google.com
 googleupdate.googleapis.com
@@ -54,11 +19,16 @@ alt2-mtalk.google.com
 alt3-mtalk.google.com
 alt4-mtalk.google.com
 mtalk.google.com
-clients4.google.com
 
-# ============================================
-# BLOCK MICROSOFT UPDATES
-# ============================================
+# Google Play Store
+android.clients.google.com
+play.google.com
+play.googleapis.com
+market.android.com
+android-market.googleapis.com
+playfe.googleapis.com
+
+# Microsoft Updates
 windowsupdate.microsoft.com
 update.microsoft.com
 windowsupdate.com
@@ -70,16 +40,68 @@ sls.update.microsoft.com
 au.download.windowsupdate.com
 stats.update.microsoft.com
 wustat.windows.com
-redir.metaservices.microsoft.com
-settings-win.data.microsoft.com
-vortex-win.data.microsoft.com
-store-images.microsoft.com
-store-images.s-microsoft.com
 
-# Microsoft Store Updates
+# Microsoft Store
 *.dl.delivery.mp.microsoft.com
 *.prod.do.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 displaycatalog.mp.microsoft.com
-arc.msn.com
-settings.data.microsoft.com
+store-images.microsoft.com
+store-images.s-microsoft.com
+microsoftstore.com
+apps.microsoft.com
+
+# Apple Updates & App Store
+appldnld.apple.com
+appldnld.g.aaplimg.com
+swscan.apple.com
+swdist.apple.com
+swdownload.apple.com
+swcdn.apple.com
+updates-http.cdn-apple.com
+xp.apple.com
+gdmf.apple.com
+mesu.apple.com
+appstore.com
+itunes.apple.com
+apps.apple.com
+itunes-apple.com.akadns.net
+
+# Samsung Galaxy Store
+galaxystore.com
+apps.samsung.com
+account.samsung.com
+us-api.samsunganalytics.com
+
+# Huawei AppGallery
+appstore.huawei.com
+vmall.huawei.com
+appgallery.cloud.huawei.com
+appgallery.huawei.com
+
+# Amazon Appstore
+amazon.com/appstore
+amazonapps.com
+mobileanalytics.us-east-1.amazonaws.com
+
+# Steam Updates
+steamcontent.com
+cdn.steamstatic.com
+cdn.steampowered.com
+cm.steampowered.com
+media.steampowered.com
+
+# Epic Games Store
+epicgames.com
+download.epicgames.com
+epicgames-download1.akamaized.net
+
+# General Software Updates
+adobe.com/softwareupdate
+swupdate.adobe.com
+armmf.adobe.com
+nuts.github.com
+api.github.com
+releases.ubuntu.com
+azure.archive.ubuntu.com
+security.ubuntu.com
