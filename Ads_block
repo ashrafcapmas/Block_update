@@ -1,0 +1,96 @@
+# ============================================
+# COMPREHENSIVE AD BLOCKING - ALL APPLICATIONS
+# ============================================
+
+# Google Ads & DoubleClick
+doubleclick.net
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+pagead2.googlesyndication.com
+adservice.google.com
+ads.google.com
+googlesyndication.com
+fundingchoicesmessages.google.com
+
+# YouTube Ads
+ads.youtube.com
+www-ads.youtube.com
+ads-api.youtube.com
+ads.youtu.be
+youtube.com/api/stats/ads
+youtube.com/pagead/
+youtube.com/ptracking
+
+# Facebook/Instagram Ads
+ads.facebook.com
+ads-api.facebook.com
+an.facebook.com
+www.ads.facebook.com
+facebookads.com
+ads.ak.facebook.com
+ads.business.facebook.com
+static.ads.facebook.com
+ads.instagram.com
+graph.instagram.com
+static.ads.instagram.com
+
+# Twitter Ads
+ads.twitter.com
+ads-api.twitter.com
+telemetry.twitter.com
+analytics.twitter.com
+
+# TikTok Ads
+ads.tiktok.com
+business-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+
+# General Ad Networks
+adnxs.com
+appnexus.com
+amazon-adsystem.com
+adsystem.amazon.com
+adservice.amazon.com
+mads.amazon.com
+ads.amazon.com
+
+# Programmatic Ads
+criteo.com
+ads.criteo.com
+rubiconproject.com
+ads.rubiconproject.com
+openx.net
+ads.openx.net
+pubmatic.com
+ads.pubmatic.com
+
+# Mobile Ads
+admob.com
+ads.admob.com
+applovin.com
+ads.applovin.com
+unityads.unity3d.com
+ads.unity3d.com
+vungle.com
+ads.vungle.com
+
+# Analytics & Tracking
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+facebook.com/tr/
+analytics.google.com
+hotjar.com
+segment.com
+mixpanel.com
+amplitude.com
+
+# Additional Ad Domains
+ads.eskimi.com
+ads.mopub.com
+ads.nexage.com
+ads.inmobi.com
+ads.velti.com
+ads.yap.yahoo.com
+ads.ytmnd.com
